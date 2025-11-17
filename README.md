@@ -1,5 +1,5 @@
 # Macintosh-S210H-EFI
-Macintosh S210H EFI 黑苹果 EFI
+Macintosh S210H macos26 EFI 黑苹果 EFI
 S210 配置表
 - **CPU**：酷睿®i5 i7 i9 标压 处理器(非低压)
 - **硬盘**：1*M.2PCIE3.0x4+1*M2PCIE或Sata 2280双固态硬盘+1*2.5寸硬盘扩展HDD 三硬盘设计
